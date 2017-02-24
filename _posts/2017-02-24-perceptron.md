@@ -12,7 +12,7 @@ tags: プロトタイプ, 決定境界, 識別関数, 学習アルゴリズム
 線形分離可能なデータの決定境界を下の図の様に得る
 
 {: .center}
-![adfadf](/perceptron.jpg)
+![adfadf]({{ site.baseurl }}/perceptron.jpg)
 
 
 ## 特徴ベクトルとプロトタイプとの距離
