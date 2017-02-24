@@ -28,7 +28,9 @@ $$\tag2\begin{align}
 \tag3&=||\boldsymbol{x}||^2 - 2(p_i^t \boldsymbol{x}  -\frac{1}{2} ||p_i||^2)
 \end{align}$$
 
-$p_i$が変数なので、$||\boldsymbol{x}||^2$は無関係
+
+$p_i$が変数なので、$||\boldsymbol{x}||^2$
+は無関係
 
 - 識別関数
 
