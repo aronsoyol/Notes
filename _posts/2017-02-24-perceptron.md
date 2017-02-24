@@ -29,6 +29,7 @@ $$\tag2\begin{align}
 \end{align}$$
 
 $p_i$が変数なので、$||\boldsymbol{x}||^2$は無関係
+
 - 識別関数
 
 $$g(p_i)=p_i^t \boldsymbol{x}  -\frac{1}{2} ||p_i||^2\tag4$$
