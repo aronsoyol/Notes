@@ -1,0 +1,1218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"padi",
+				"padding-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padid",
+				"padding-top"
+			],
+			[
+				"line",
+				"line_vector"
+			],
+			[
+				"i",
+				"import"
+			],
+			[
+				"my",
+				"my_stop_word"
+			],
+			[
+				"c",
+				"clean_wordk_list"
+			],
+			[
+				"wr",
+				"word"
+			],
+			[
+				"word",
+				"word_list"
+			],
+			[
+				"pos",
+				"pos_list"
+			],
+			[
+				"neg",
+				"neg_list"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"path",
+				"pathSurface"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"sen",
+				"sentenceNodes"
+			],
+			[
+				"men",
+				"mentList"
+			],
+			[
+				"re",
+				"referNodes"
+			],
+			[
+				"se",
+				"sentList"
+			],
+			[
+				"w",
+				"words"
+			],
+			[
+				"et",
+				"ET"
+			],
+			[
+				"lien",
+				"lineNo"
+			],
+			[
+				"chunk",
+				"chunkList"
+			],
+			[
+				"joshi",
+				"joshi_sorted"
+			],
+			[
+				"idwo",
+				"idWoMorph"
+			],
+			[
+				"mor",
+				"_morphs"
+			],
+			[
+				"base",
+				"baseJoshi"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"mo",
+				"morph"
+			],
+			[
+				"start",
+				"startswith"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"df",
+				"defs\tMethod"
+			],
+			[
+				"d",
+				"defaultdict"
+			],
+			[
+				"app",
+				"appendMorph"
+			],
+			[
+				"s",
+				"sources"
+			],
+			[
+				"fre",
+				"freqList"
+			],
+			[
+				"x",
+				"X"
+			],
+			[
+				"print",
+				"print"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"pi",
+				"printme"
+			],
+			[
+				"in",
+				"inputFile"
+			],
+			[
+				"model",
+				"modelFile"
+			],
+			[
+				"t",
+				"tp\ttemplate <typename ${1:_InputIter}>"
+			],
+			[
+				"f",
+				"fprintf\tfprintf …"
+			],
+			[
+				"ap",
+				"api_url"
+			],
+			[
+				"wiki",
+				"wiki_url"
+			],
+			[
+				"v",
+				"V"
+			],
+			[
+				"item",
+				"item2"
+			],
+			[
+				"sort",
+				"sortedDic"
+			],
+			[
+				"lin",
+				"line1"
+			],
+			[
+				"wrod",
+				"wordList"
+			],
+			[
+				"str",
+				"str_in"
+			],
+			[
+				"le",
+				"letterBiGram"
+			],
+			[
+				"string",
+				"string1"
+			],
+			[
+				"wor",
+				"word_list"
+			],
+			[
+				"W",
+				"word_count"
+			],
+			[
+				"tot",
+				"totoal"
+			],
+			[
+				"margino",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Top",
+				"TopRight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 259,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nMarkdownLivePreview\n-------------------\n\n   __  __            _       _                     _      _           _____                _\n  |  \\/  |          | |     | |                   | |    (_)         |  __ \\              (_)\n  | \\  / | __ _ _ __| | ____| | _____      ___ __ | |     ___   _____| |__) | __ _____   ___  _____      __\n  | |\\/| |/ _` | '__| |/ / _` |/ _ \\ \\ /\\ / / '_ \\| |    | \\ \\ / / _ \\  ___/ '__/ _ \\ \\ / / |/ _ \\ \\ /\\ / /\n  | |  | | (_| | |  |   < (_| | (_) \\ V  V /| | | | |____| |\\ V /  __/ |   | | |  __/\\ V /| |  __/\\ V  V /\n  |_|  |_|\\__,_|_|  |_|\\_\\__,_|\\___/ \\_/\\_/ |_| |_|______|_| \\_/ \\___|_|   |_|  \\___| \\_/ |_|\\___| \\_/\\_/\n  \n  Thanks for installing MarkdownLivePreview! I hope you'll enjoy using it!\n  \n  Quick Start:\n  ~~~~~~~~~~~~\n  \n  To enable MarkdownLivePreview, you need to be on a markdown view (works with\n  Markdown Extended). Then just press `alt+m`, or search up in the command\n  palette: 'MarkdownLivePreview: Toggle'. Hit enter and you're done. As soon as\n  you type anything in, it'll show up with the preview in a new group.\n  \n  Say thanks:\n  ~~~~~~~~~~~\n  \n  Just letting me know you're enjoying this plugin is a great way to say thanks!\n  \n  You can do so by staring the GitHub repo, or sending a tweet (@_math2001) for\n  example!\n  \n  Troubles?\n  ~~~~~~~~~\n  \n  If you have any kind of trouble with it, just let me now by raising an issue on\n  the GitHub issue tracker here:\n  \n  https://github.com/math2001/MarkdownLivePreview/issues\n  \n  Tip of the day: Right click on a URL and choose 'Open <the url>' to open it in\n                  your default browser.\n  \n  Credits:\n  ~~~~~~~~\n  \n  The ASCII MLP has been generated using the ASCII Decorator.\n  \n  https://github.com/viisual/ASCII-Decorator\n",
+			"settings":
+			{
+				"buffer_size": 1803,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 1453,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "preview",
+		"selected_items":
+		[
+			[
+				"preview",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"livereload",
+				"Snippet: Create new LiveReload plugin"
+			],
+			[
+				"jeky date",
+				"Jekyll: Insert current datetime"
+			],
+			[
+				"live",
+				"LiveReload: Help"
+			],
+			[
+				"jekyl",
+				"Jekyll: New post"
+			],
+			[
+				"new dra",
+				"Jekyll: New draft"
+			],
+			[
+				"jekyll date",
+				"Jekyll: Insert current date"
+			],
+			[
+				"jekyll  pro",
+				"Jekyll: Promote draft to post"
+			],
+			[
+				"jekyll new",
+				"Jekyll: New draft"
+			],
+			[
+				"jek da",
+				"Jekyll: Insert current date"
+			],
+			[
+				"jekyll",
+				"Jekyll: Insert current date"
+			],
+			[
+				"livere e",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"drat",
+				"Jekyll: Promote draft to post"
+			],
+			[
+				"psot",
+				"Jekyll: New post"
+			],
+			[
+				"post",
+				"Jekyll: New post"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"jeky dra",
+				"Jekyll: New draft"
+			],
+			[
+				"jeky",
+				"Jekyll: Edit _config.yml"
+			],
+			[
+				"jekyll se",
+				"Jekyll Utility: Migrate user settings"
+			],
+			[
+				"jekyl ",
+				"Jekyll: Edit _config.yml"
+			],
+			[
+				"jekyll ",
+				"Jekyll: New draft"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"termina re",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitdiff",
+				"Git: Diff Current File"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"gitpull",
+				"Git: Pull"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"gitsta",
+				"Git: Status"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git  diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git ",
+				"Git: Commit history"
+			],
+			[
+				"git grap",
+				"Git: Diff Current File (Ignore Whitespace)"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 315.0,
+		"history":
+		[
+			"iTerm2-v3.sh",
+			"iTerm2-v3",
+			"iTerm2-v3.sh",
+			"iTerm2.sh",
+			"iTerm.sh",
+			"iTermsh",
+			"iTerm",
+			"iTerm.sh",
+			"iTerm2-v3.sh",
+			"import iTerm2",
+			"iTerm2-v3.sh",
+			"print(i)",
+			"print i",
+			"i=1",
+			"iTerm.sh"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/aron/dev/jekyll0/Notes",
+		"/Users/aron/dev/jekyll0/Notes/_layouts",
+		"/Users/aron/dev/jekyll0/Notes/_posts",
+		"/Users/aron/dev/jekyll0/Notes/_site",
+		"/Users/aron/dev/jekyll0/Notes/_site/语音识别/2017",
+		"/Users/aron/dev/jekyll0/Notes/_site/语音识别/2017/02",
+		"/Users/aron/dev/jekyll0/Notes/_site/语音识别/2017/03",
+		"/Users/aron/dev/jekyll0/Notes/_site/语音识别/2017/03/02"
+	],
+	"file_history":
+	[
+		"/Users/aron/dev/jekyll0/Notes/_posts/2017-03-02-training.markdown",
+		"/Users/aron/dev/jekyll0/Notes/_layouts/default.html",
+		"/Users/aron/dev/jekyll0/Notes/notes.sublime-project",
+		"/Users/aron/dev/jekyll0/Notes/_drafts/ssss.markdown",
+		"/Users/aron/dev/jekyll0/Notes/_layouts/post.html",
+		"/Users/aron/dev/jekyll0/Notes/_site/index.html",
+		"/Users/aron/dev/jekyll0/Notes/_site/2017/03/02/training.html",
+		"/Users/aron/dev/jekyll0/hagura/_includes/disqus.html",
+		"/Users/aron/dev/jekyll0/hagura/_drafts/s.markdown",
+		"/Users/aron/dev/jekyll0/hagura/_drafts/baochengguang.markdown",
+		"/Users/aron/dev/jekyll0/hagura/_site/index.html",
+		"/Users/aron/dev/jekyll0/hagura/_drafts/sublime_jekyll.markdown",
+		"/Users/aron/dev/jekyll0/hagura/_posts/2017-03-02-sublime-jekyll.markdown",
+		"/Users/aron/dev/jekyll0/hagura/_posts/2017-03-02-s.markdown",
+		"/Users/aron/dev/jekyll0/hagura/hagura.sublime-project",
+		"/Users/aron/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/aron/HuhTog/data/039.merge",
+		"/Users/aron/HuhTog/data/039.galig",
+		"/Users/aron/HuhTog/huhtog.sublime-project",
+		"/Users/aron/HuhTog/py/huhtog.py",
+		"/Users/aron/HuhTog/py/txt2html.py",
+		"/Users/aron/nlp/knock/tomoya/chapter08/knock72.py",
+		"/Users/aron/nlp/knock/.git/MERGE_MSG",
+		"/Users/aron/nlp/knock/yukio/chapter08/knock72.py",
+		"/Users/aron/nlp/knock/yukio/chapter08/knock73.py",
+		"/Users/aron/nlp/knock/.gitignore",
+		"/Users/aron/nlp/knock/Hayahide/chapter08/knock72.py",
+		"/Users/aron/nlp/knock/aizhan/chapter06/knock52.py",
+		"/Users/aron/nlp/knock/aron/chapter06/knock52.py",
+		"/Users/aron/nlp/knock/Hayahide/chapter06/knock52.py",
+		"/Users/aron/nlp/knock/aron/chapter08/sentiment.txt",
+		"/Users/aron/nlp/knock/aron/chapter08/data/rt-polaritydata/rt-polarity.pos",
+		"/Users/aron/nlp/knock/aron/chapter08/out",
+		"/Users/aron/nlp/knock/ryosuke/chapter01/knock09.py",
+		"/Users/aron/nlp/knock/aron/chapter08/data/rt-polaritydata/rt-polarity.neg",
+		"/Users/aron/nlp/knock/hikaru/chapter08/knock73.py",
+		"/Users/aron/nlp/knock/aron/chapter08/72.out",
+		"/Users/aron/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/aron/nlp/knock/aron/chapter07/60.out",
+		"/Users/aron/nlp/knock/aron/chapter01/knock09.py",
+		"/Users/aron/nlp/knock/aron/chapter07/knock65.py",
+		"/Users/aron/nlp/knock/aron/chapter03/knock29.py",
+		"/Users/aron/nlp/knock/aron/chapter07/knock66.py",
+		"/Users/aron/nlp/knock/tomoya/chapter07/knock67.py",
+		"/Users/aron/nlp/knock/aron/chapter07/knock68.py",
+		"/Users/aron/nlp/knock/aron/chapter07/cgi-bin/knock69.cgi",
+		"/Users/aron/nlp/knock/aron/chapter07/knock64.py",
+		"/Users/aron/nlp/knock/aron/chapter07/knock69.py",
+		"/Users/aron/nlp/knock/aron/chapter07/index.html",
+		"/Users/aron/nlp/knock/aron/chapter03/knock24.py",
+		"/Users/aron/nlp/knock/aron/chapter03/knock23.py",
+		"/Users/aron/nlp/knock/aron/chapter03/knock20.py",
+		"/Users/aron/nlp/knock/aron/chapter07/cgi-bin/index.html",
+		"/Users/aron/nlp/knock/tomoya/chapter07/knock68.py",
+		"/Users/aron/nlp/knock/aron/chapter02/knock12.py",
+		"/Users/aron/nlp/knock/aizhan/chapter07/knock65.py",
+		"/Users/aron/nlp/knock/aron/chapter06/knock53.py",
+		"/Users/aron/nlp/knock/aron/chapter06/knock54.py",
+		"/Users/aron/nlp/knock/aron/chapter06/knock55.py",
+		"/Users/aron/nlp/knock/aron/chapter07/knock67.py",
+		"/Users/aron/nlp/knock/aron/chapter07/cgi.py",
+		"/Users/aron/nlp/knock/aron/chapter07/cgi-bin/knock69.py",
+		"/Users/aron/nlp/knock/ryosuke/chapter07/knock64.py",
+		"/Users/aron/nlp/knock/yukio/chapter07/knock64.py",
+		"/Users/aron/HuhTog/.gitignore",
+		"/Users/aron/nlp/knock/aron/chapter06/nlp.txt.xml",
+		"/Users/aron/nlp/knock/aron/chapter06/nlp.txt",
+		"/Users/aron/nlp/knock/aron/chapter01/knock01.py",
+		"/Users/aron/nlp/knock/aron/chapter02/knock10.py",
+		"/Users/aron/nlp/knock/aron/chapter02/knock13.py",
+		"/Users/aron/nlp/knock/aron/chapter04/knock38.py",
+		"/Users/aron/nlp/knock/aron/chapter05/knock40.py",
+		"/Users/aron/nlp/knock/aron/chapter05/knock48.py",
+		"/Users/aron/nlp/knock/aron/chapter05/knock49.py",
+		"/Users/aron/nlp/knock/aron/chapter06/knock50.py",
+		"/Users/aron/nlp/knock/aron/chapter06/knock51.py",
+		"/Users/aron/nlp/knock/ryosuke/chapter06/knock50.py",
+		"/Users/aron/nlp/knock/aron/chapter05/neko.txt",
+		"/Users/aron/nlp/knock/aron/chapter05/neko.txt.cabocha",
+		"/Users/aron/nlp/knock/aron/chapter05/knock41.py",
+		"/tmp/subl stdin 1TFPFN.txt",
+		"/Users/aron/nlp/knock/.gitigonre",
+		"/Users/aron/nlp/knock/aron/chapter06/knock56.py",
+		"/Users/aron/nlp/knock/aron/chapter06/knock57.py",
+		"/Users/aron/mongol-it/Invitation/invitation.txt",
+		"/Users/aron/nlp/knock/ryosuke/chapter06/knock57.py",
+		"/Users/aron/nlp/knock/ryosuke/chapter06/knock56.py",
+		"/Users/aron/nlp/knock/ryosuke/chapter06/rr",
+		"/tmp/subl stdin cu3TVa.txt",
+		"/Users/aron/nlp/knock/aron/chapter06/50.out",
+		"/Users/aron/nlp/knock/aron/chapter02/knock17.py",
+		"/Users/aron/nlp/knock/aron/chapter04/gnuplot-py-1.8/Errors.py",
+		"/Users/aron/nlp/knock/aron/chapter04/gnuplot-py-1.8/build/lib/Gnuplot/utils.py",
+		"/Users/aron/nlp/knock/aron/chapter04/gnuplot-py-1.8/build/lib/Gnuplot/PlotItems.py",
+		"/Users/aron/nlp/knock/aron/chapter04/gnuplot-py-1.8/build/lib/Gnuplot/gnuplot_Suites.py",
+		"/Users/aron/nlp/knock/aron/chapter04/gnuplot-py-1.8/build/lib/Gnuplot/Errors.py",
+		"/Users/aron/nlp/knock/aron/chapter04/gnuplot-py-1.8/build/lib/Gnuplot/__init__.py",
+		"/Users/aron/nlp/knock/aron/chapter01/knock08.py",
+		"/Users/aron/nlp/knock/aron/chapter01/knock04.py",
+		"/Users/aron/nlp/knock/aron/chapter04/gnuplot-py-1.8/__init__.py",
+		"/Users/aron/nlp/knock/aron/chapter04/gnuplot-py-1.8/gnuplot_Suites.py",
+		"/Users/aron/nlp/knock/aron/chapter04/gnuplot-py-1.8/PlotItems.py",
+		"/Users/aron/nlp/knock/aron/chapter04/gnuplot-py-1.8/utils.py",
+		"/Users/aron/nlp/knock/aron/chapter06/60.out",
+		"/Users/aron/nlp/knock/aron/chapter05/knock47.py",
+		"/Users/aron/nlp/knock/ryosuke/chapter05/knock49.py",
+		"/Users/aron/nlp/knock/aron/chapter04/knock39.py",
+		"/Users/aron/tree",
+		"/Users/aron/nlp/knock/ryosuke/chapter05/knock41.py",
+		"/Users/aron/nlp/knock/aron/chapter05/48.out",
+		"/Users/aron/nlp/knock/ryosuke/chapter05/knock48.py",
+		"/Users/aron/nlp/knock/aron/chapter05/47_1.out",
+		"/Users/aron/nlp/knock/aron/chapter02/knock19.py",
+		"/Users/aron/nlp/knock/aron/chapter05/knock42.py",
+		"/Users/aron/.bash_profile",
+		"/Users/aron/tree.txt",
+		"/Users/aron/nlp/knock/knock.sublime-project",
+		"/Users/aron/tree.html",
+		"/Users/aron/nlp/knock/aron/chapter05/knock47_1.py",
+		"/Users/aron/nlp/knock/aron/chapter01/knock05.py",
+		"/Users/aron/nlp/knock/kankeko/chapter05/knock41.py",
+		"/Users/aron/nlp/knock/aron/chapter05/42.out",
+		"/Users/aron/nlp/knock/ryosuke/chapter05/knock42.py",
+		"/Users/aron/nlp/knock/aron/chapter05/yield.py",
+		"/Users/aron/nlp/knock/ryosuke/chapter05/knock44.py",
+		"/Users/aron/nlp/knock/aron/chapter05/45.out",
+		"/Users/aron/nlp/knock/ryosuke/chapter05/45",
+		"/Users/aron/nlp/knock/aron/chapter05/knock46.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/aron/HuhTog/webapp",
+			"/Users/aron/HuhTog/py",
+			"/Users/aron/HuhTog/data,*.txt",
+			"/Users/aron/HuhTog",
+			"/Users/aron/HuhTog/data,*.txt",
+			"/Users/aron/nlp,*.py",
+			"/Users/aron/nlp/tutorial/aron,*.py",
+			"/Users/aron/nlp/knock/aron,*.py",
+			"/Users/aron/nlp/knock/aron",
+			"/Users/aron/nlp/knock/",
+			"/Users/aron/nlp/knock/ryosuke",
+			"/Users/aron/nlp/knock/aron,*py",
+			"/Users/aron/nlp/knock/aron",
+			"/Users/aron/nlp/knock/aron,*.py",
+			"/Users/aron/nlp/knock/aron",
+			"/Users/aron/nlp/knock/",
+			"/Users/aron/nlp/knock/aron",
+			"/Users/aron/nlp/knock/aron/chapter05",
+			"/Users/aron/dev/lode/dev/do-rel/cppumaker",
+			"/Users/aron/dev/lode/dev/do-rel/solenv",
+			"/Users/aron/dev/lode/dev/do-rel/instsetoo_native",
+			"/Users/aron/dev/lode/dev/do-rel/",
+			"/Users/aron/dev/lode/dev/do-rel/solenv",
+			"/Users/aron/dev/lode/dev/do-rel/instsetoo_native",
+			"/Users/aron/dev/lode/dev/core-lo5/solenv/bin/modules/",
+			"/Users/aron/dev/lode/dev/core-lo5/solenv/bin/modules/installer/",
+			"/Users/aron/dev/lode/dev/core/scp2/source/ooo",
+			"/Users/aron/dev/lode/dev/core-lo5/",
+			"/Users/aron/dev/lode/dev/core-lo5/sw",
+			"/Users/aron/dev/lode/dev/core-lo5/vcl",
+			"/Users/aron/dev/lode/dev/core-lo5",
+			"/Users/aron/dev/lode/dev/core/sw",
+			"/Users/aron/dev/lode/dev/core/vcl",
+			"/Users/aron/dev/lode/dev/core/i18nlangtag/source/isolang",
+			"/Users/aron/dev/lode/dev/core/vcl/",
+			"/Users/aron/dev/lode/dev/core/vcl/quartz",
+			"/Users/aron/dev/lode/dev/core/vcl"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"queryData",
+			"getData",
+			"get",
+			"base",
+			"path",
+			"ᠬᠣᠰ ᠤᠶᠠᠩᠭ᠎ᠠ",
+			"ᠴᠦᠯᠪᠡᠵᠦ ᠠᠪᠤᠭᠰᠠᠨ ᠬᠡᠳᠦᠨ ᠡᠳᠦᠷ ᠤᠨ ᠲᠡᠮᠳᠡᠭᠯᠡᠯ",
+			"ᠴᠦᠯᠪ",
+			"ᠴᠦᠯᠪᠡᠵᠦ",
+			"ᠳᠠᠯᠠᠢ ᠪᠡᠷ",
+			"手足を冷える",
+			" - $",
+			".*",
+			"pyquery",
+			"ハイラ",
+			"ハイラル",
+			"ハイラ",
+			"ᠨᠠᠢᠮᠠ",
+			"box-sh",
+			"conta",
+			"contai",
+			"conta",
+			"conti",
+			"container",
+			"font-size",
+			"15分",
+			"45分",
+			"fff",
+			"back",
+			"font-fa",
+			"font",
+			"h2",
+			"<br><h2>",
+			"h2",
+			"<h2>",
+			"getFeatureList",
+			"features_list",
+			"movi",
+			"zzzzzzzzz",
+			"''",
+			" ' ",
+			"'20",
+			"20",
+			"'20",
+			"^\\s*([^ ]+)\\s*\\n",
+			"^\\s([^ ]+)\\s\\n",
+			"^\\s([^ ])\\s\\n",
+			"^\\s([^ ]+)\\s\\n",
+			"^\\s(.*)\\s\\n",
+			"^(.*)\\n",
+			"\\|",
+			".stem",
+			"nltk",
+			"stem",
+			"stemming",
+			"^\\+1",
+			"^+1",
+			"shuff",
+			"random",
+			"json",
+			"git",
+			"html",
+			"get_info",
+			"make_resultscreen",
+			"cgi",
+			"make_resultscreen",
+			"make_searchscreen",
+			"get_response.json",
+			"from colle",
+			".*/?(.*\\..*)",
+			".*/(.*\\..*)",
+			"stdin.",
+			"start",
+			"machine translation ",
+			"machine translation , ",
+			"machine translation , due especially to work at IBM Research , where successively more complicated statistical models were developed",
+			"a solved problem",
+			"sentence",
+			"core",
+			"sentence",
+			"core",
+			"Alan",
+			"Alan Turing",
+			"coding",
+			"stdin",
+			"field",
+			"your",
+			"(?<=[\\.;:\\?\\!]) (?=[A-Z\\n])",
+			"std",
+			"std.",
+			"(?<=[\\.;:\\?\\!]) (?=[A-Z\\n])",
+			"match",
+			"reg",
+			"complie",
+			"\\[.*\\]",
+			"`",
+			"ja_JP",
+			"」",
+			"返事をする",
+			"punct",
+			"返事をする",
+			"dict",
+			"返事をする",
+			"御馳走を",
+			"御馳走をあ",
+			"御馳走をあるく",
+			"御馳走",
+			"聞い.*\\nた",
+			"聞い",
+			"返事をする",
+			"変接続",
+			".pos",
+			"サ変接続",
+			"^を",
+			"垣根",
+			"三毛",
+			"三毛を",
+			"第一毛をもって",
+			"返事",
+			"返事をする",
+			"する",
+			"返事",
+			"行水",
+			"返事",
+			"返事を",
+			"^と外.*",
+			"^外.*",
+			"^と外.*"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"***",
+			" - $0",
+			"ᠨᠠᠢ᠍ᠮᠠ",
+			"１５分",
+			"<h2>",
+			"<br><h2>",
+			"features_dict",
+			"\"$1\",",
+			"\"$1\",\n",
+			"",
+			"$1\n",
+			"\n",
+			"└",
+			"L",
+			"zh_CN",
+			"createMorphFromLine",
+			"L1",
+			"\"",
+			"probabilities",
+			"",
+			" ",
+			"",
+			"$1",
+			"",
+			"$(PRODUCTNAME)",
+			"-I/Users",
+			"/Users/aron/dev/lode/dev",
+			"/",
+			" "
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1803,
+								1803
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 31.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 335.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 160.0
+	},
+	"pinned_build_system": "",
+	"project": "notes.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"openoffice.lst",
+				"instsetoo_native/util/openoffice.lst.in"
+			],
+			[
+				"filelists.",
+				"solenv/bin/modules/installer/filelists.pm"
+			],
+			[
+				"file",
+				"officecfg/files.mk"
+			],
+			[
+				".gita",
+				".gitattributes"
+			],
+			[
+				"sc/uiconfig/scalc/menubar/menubar.xml",
+				"sc/uiconfig/scalc/menubar/menubar.xml"
+			],
+			[
+				"sd/uiconfig/simpress/toolbar/toolbar.xml",
+				"sd/uiconfig/simpress/toolbar/toolbar.xml"
+			],
+			[
+				"outlobj",
+				"editeng/source/outliner/outlobj.cxx"
+			],
+			[
+				"svdot",
+				"svx/source/svdraw/svdotext.cxx"
+			],
+			[
+				"docfly",
+				"sw/source/core/doc/docfly.cxx"
+			],
+			[
+				"page.cxx",
+				"cui/source/tabpages/page.cxx"
+			],
+			[
+				"scriptitems.pm",
+				"solenv/bin/modules/installer/scriptitems.pm"
+			],
+			[
+				"codes.txt",
+				"instsetoo_native/inc_openoffice/windows/msi_templates/codes.txt"
+			],
+			[
+				"download.pm",
+				"solenv/bin/modules/installer/download.pm"
+			],
+			[
+				".gitattributes",
+				".gitattributes"
+			],
+			[
+				"ooinstall",
+				"solenv/bin/ooinstall"
+			],
+			[
+				"ooisntall",
+				"solenv/bin/ooinstall"
+			],
+			[
+				"openoffice.lst.in",
+				"instsetoo_native/util/openoffice.lst.in"
+			],
+			[
+				"customtarget_install",
+				"instsetoo_native/CustomTarget_install.mk"
+			],
+			[
+				"configure.ac",
+				"configure.ac"
+			],
+			[
+				"outlobj.cxx",
+				"editeng/source/outliner/outlobj.cxx"
+			],
+			[
+				"macosx.mk",
+				"solenv/gbuild/platform/macosx.mk"
+			],
+			[
+				"org.libreoffic",
+				"instdir/AronOffice.app/Contents/program/urelibs/LibreOfficePython.framework/LibreOfficePython"
+			],
+			[
+				"simplepackage",
+				"solenv/bin/modules/installer/simplepackage.pm"
+			],
+			[
+				"accessiblerole.hpp",
+				"workdir/UnoApiHeadersTarget/offapi/normal/com/sun/star/accessibility/AccessibleRole.hpp"
+			],
+			[
+				"node.cxx",
+				"sw/source/core/docnode/node.cxx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 363.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
