@@ -36,11 +36,13 @@ tags: [Topic Model, LDA]
 - $\boldsymbol{\pi}=\{\pi_1,\pi_2,...,\pi_K\}, \sum\limits_{k=1}^K\pi_k=1$
 - $p(x_1,x_2,...,x_n)=\prod\limits_{i=1}^{n}p(x_i)= \prod\limits_{i=1}^{K}\pi_i^{n_k}$
 - 各試行の回数だけに興味ある場合
+
 $$\begin{array}{}
 &\quad p(\{n_1,n_2,...,n_K\}|\boldsymbol{\pi},n)\\
 &= Multi(\{n_1,n_2,...,n_K\}|\boldsymbol{\pi},n)\\
 &= C_n^{n_1}C_{n-n_1}^{n_2}...C_{n-\sum_{i=1}^{K-2}n_i}^{n_{k-1}}C_{n_k}^{n_k}\prod\limits_{i=1}^{K}\pi_i^{n_k}\\
 &=\frac{n!}{\prod_{k=1}^Kn_k!}\prod\limits_{k=1}^K\pi_k^{n_k}\end{array}$$
+
 - トピックから単語を生成する分布
 - 文章のトピックの分布
 
