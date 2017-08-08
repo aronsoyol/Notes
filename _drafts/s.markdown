@@ -1,4 +1,0 @@
----
-title: s
-layout: post
----
