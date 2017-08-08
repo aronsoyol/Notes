@@ -97,16 +97,13 @@ $$但し、 \left\{\begin{array}{ll}\alpha_0&=\sum_{k=1}^K\alpha_k\\
 
 $$KL[p^*(x)\|p(x|\phi)]=\int p^*(x)\log\frac{p^*(x)}{p(x|\phi)}dx.$$
 
-- 性質１
+- 性質
 
 $$KL[p^*(x)\|p(x|\phi)] \geq 0$$
 
-- 性質２
-
 $$KL[p^*(x)\|p(x|\phi)] = 0\Leftrightarrow p^*(x)=p(x|\phi)$$
 
-- 以下によって
-\$$p(x|\phi)$$を求める
+- 以下によって$p(x\vert\phi)$を求める
 
 $$\phi^*= \mathop{\rm argmin}\limits_{\phi}\left\{KL[p^*(x)\|p(x|\phi)]\right\}$$
 
