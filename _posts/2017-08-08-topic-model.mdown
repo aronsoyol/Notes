@@ -37,11 +37,11 @@ tags: [Topic Model, LDA]
 - $p(x_1,x_2,...,x_n)=\prod\limits_{i=1}^{n}p(x_i)= \prod\limits_{i=1}^{K}\pi_i^{n_k}$
 - 各試行の回数だけに興味ある場合
 
-$$\begin{array}{}
+$$\begin{matrix}{}
 &\quad p(\{n_1,n_2,...,n_K\}|\boldsymbol{\pi},n)\\
 &= Multi(\{n_1,n_2,...,n_K\}|\boldsymbol{\pi},n)\\
 &= C_n^{n_1}C_{n-n_1}^{n_2}...C_{n-\sum_{i=1}^{K-2}n_i}^{n_{k-1}}C_{n_k}^{n_k}\prod\limits_{i=1}^{K}\pi_i^{n_k}\\
-&=\frac{n!}{\prod_{k=1}^Kn_k!}\prod\limits_{k=1}^K\pi_k^{n_k}\end{array}$$
+&=\frac{n!}{\prod_{k=1}^Kn_k!}\prod\limits_{k=1}^K\pi_k^{n_k}\end{matrix}$$
 
 - トピックから単語を生成する分布
 - 文章のトピックの分布
@@ -91,7 +91,7 @@ $$但し、 \left\{\begin{array}{ll}\alpha_0&=\sum_{k=1}^K\alpha_k\\
 - 問題：
     - $p^*(x)$と$p(x\|\phi)$どれだけ近い？
 
-### KL情報量
+### KL情報量q
 
 - 公式
 
@@ -113,16 +113,16 @@ $$KL[p^*(x)\|p(x|\phi)]=\int p^*(x)\log\frac{p^*(x)}{p(x|\phi)}dx.$$
 
 - $p^*(x)$による期待値
 
-$$\begin{array}{}KL[p^*(x)\|p(x|\phi)]&=\int p^*(x)\log\frac{p^*(x)}{p(x|\phi)}dx.\\
+$$\begin{matrix}{}KL[p^*(x)\|p(x|\phi)]&=\int p^*(x)\log\frac{p^*(x)}{p(x|\phi)}dx.\\
 &= \mathbb{E}_{p^*(x)}\left[\log\frac{p^*(x)}{p(x|\phi)}\right]\\
 &= \mathbb{E}_{p^*(x)}\left[\log{p^*(x)}\right]-\mathbb{E}_{p^*(x)}\left[\log{p(x|\phi)}\right]\\
-\end{array}$$
+\end{matrix}$$
 
-$$\begin{array}{}\phi^*&=\mathop{\rm argmin}\limits_{\phi}\left\{KL[p^*(x)\|p(x|\phi)]\right\}\\
+$$\begin{matrix}{}\phi^*&=\mathop{\rm argmin}\limits_{\phi}\left\{KL[p^*(x)\|p(x|\phi)]\right\}\\
 &=\mathop{\rm argmin}\limits_{\phi}\left\{\mathbb{E}_{p^*(x)}\left[\log{p^*(x)}\right]-\mathbb{E}_{p^*(x)}\left[\log{p(x|\phi)}\right]\right\}\\
 &=\mathop{\rm argmin}\limits_{\phi}\left\{-\mathbb{E}_{p^*(x)}\left[\log{p(x|\phi)}\right]\right\}\\
 &=\mathop{\rm argmax}\limits_{\phi}\left\{\mathbb{E}_{p^*(x)}\left[\log{p(x|\phi)}\right]\right\}\\
-\end{array}$$
+\end{matrix}$$
 
 - 真の分布
 $$p^{*}$$
