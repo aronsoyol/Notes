@@ -91,7 +91,7 @@ $$但し、 \left\{\begin{array}{ll}\alpha_0&=\sum_{k=1}^K\alpha_k\\
 - 問題：
     - $p^*(x)$と$p(x\|\phi)$どれだけ近い？
 
-### KL情報量q
+### KL情報量
 
 - 公式
 
