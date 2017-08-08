@@ -6,12 +6,19 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
+	<style>
+		body{
+			background-image: url("{{ site.baseurl }}/assets/banner.jpg");
+			background-repeat: no-repeat;
+		}
+	</style>
 </head>
 <body>
 <ol>
 {% for post in site.posts %}
 <li><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></li>
-{% endfor %}</ol>	
+{% endfor %}
+</ol>	
 
 </body>
 
