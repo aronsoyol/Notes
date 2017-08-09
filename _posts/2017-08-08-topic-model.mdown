@@ -79,24 +79,19 @@ $$P(B_i|A)= \frac{P(A|B_i)P(B_i)}{P(A)}=\frac{P(A|B_i)p(\theta)}{\sum_{i=1}^{N}P
 
 ## ディリクレ分布(Dirichlet distribution)
 
+$$\begin{array}{}\\
+Dir(\boldsymbol{\pi}|\boldsymbol{\alpha})=\frac{\Gamma\left(\alpha_0\right)}{ \prod_{k=1}^{K}\Gamma\left(\alpha_k\right) }\prod_{k=1}^{K}\pi_k^{\alpha_k-1}\\
+但し、 \left\{\begin{array}{ll}\alpha_0&=\sum_{k=1}^K\alpha_k\\
+\Gamma(x)&=(x-1)!\end{array}\right.\end{array}$$ 
 
 - 多項分布の共役事前分布
-- 数式
-
-$$Dir(\boldsymbol{\pi}|\boldsymbol{\alpha})=\frac{\Gamma\left(\alpha_0\right)}{ \prod_{k=1}^{K}\Gamma\left(\alpha_k\right) }\prod_{k=1}^{K}\pi_k^{\alpha_k-1}$$
-
-$$但し、 \left\{\begin{array}{ll}\alpha_0&=\sum_{k=1}^K\alpha_k\\
-\Gamma(x)&=(x-1)!\end{array}\right.$$ 
-
-- $\therefore$ ディリクレ分布と多項分布が形式的に同じ：共役事前分布
-
 - $\boldsymbol{\pi}$：確率変数
 - $\boldsymbol{\alpha}$：ハイパーパラメータ
 - 事後確率の計算
 
     $$\begin{align*}
-    p(\boldsymbol{\pi}|\boldsymbol{x},\boldsymbol{\alpha})\propto p(\boldsymbol{\pi}\vert\boldsymbol{\alpha})f(\boldsymbol{x}|\boldsymbol{\pi})\propto \cdot \prod\limits_{k=1}^K{\pi}_k^{n_k} \prod_{k=1}^{K}{\pi}_k^{\alpha_k-1} = \prod_{k=1}^{K}{\pi}_k^{n_k+\alpha_k-1}
-\end{align*}$$
+    p(\boldsymbol{\pi}|\boldsymbol{x},\boldsymbol{\alpha})\propto p(\boldsymbol{\pi}\vert\boldsymbol{\alpha})f(\boldsymbol{x}|\boldsymbol{\pi})\propto  \prod\limits_{k=1}^K{\pi}_k^{n_k} \cdot \prod_{k=1}^{K}{\pi}_k^{\alpha_k-1} = \prod_{k=1}^{K}{\pi}_k^{n_k+\alpha_k-1}
+    \end{align*}$$
 
     正規化すれば
 
@@ -169,7 +164,7 @@ $p^*(x)$
 
 - 観測データを真の分布からのサンプルとして期待値計算を近似する
 
-$$\mathbb{E}_{p^*(x)}\left[\log{p(x)|\phi)}\right]\approx\frac{1}{n}\sum\limits_{i=1}^n\log p(x_i|\phi)$$
+$$\mathbb{E}_{p^*(x)}\left[\log{p(x|\phi)}\right]\approx\frac{1}{n}\sum\limits_{i=1}^n\log p(x_i|\phi)$$
 
 $$\phi_{ML}^*=\mathop{\rm argmax}\limits_{\phi}\left\{\sum\limits_{i=1}^n\log p(x_i|\phi)\right\}$$
 
@@ -183,6 +178,7 @@ $$\phi_{MAP}^*=\mathop{\rm argmax}\limits_{\phi}\left\{\log p(\phi|\eta)+\sum\li
 
 - 新たなデータ$x^*$
 に対して、
+
 $$p(x^*|\boldsymbol{x})=\int p(x^*|\phi)p(\phi|\boldsymbol{x})d\phi= \mathbb{E}_{p(\phi|\boldsymbol{x})}\left[p(x^*|\phi)\right].$$
 
 - ベイズ推定の枠組み
