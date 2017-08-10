@@ -30,7 +30,7 @@ github_username:  jekylladfasdf
 # Build settings
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md,mdown"
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
 exclude:
